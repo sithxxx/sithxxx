@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![React](https://shields.io)
